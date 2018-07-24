@@ -4,6 +4,6 @@
 
 $(document).ready(() => {
     $('#navbar').css({
-        "background-color": "black"
+        "background-color": "green"
     });
 });
