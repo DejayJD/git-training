@@ -3,7 +3,7 @@
  */
 
 $(document).ready(() => {
-    $('#navbar').css({
-        "background-color": "black"
+    $('h3').css({
+        "color": "green"
     });
 });
