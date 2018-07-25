@@ -5,6 +5,10 @@ body, html {
     height: 100%;
 }
 
+img {
+    width:450px;
+}
+
 h1 {
     color: rebeccapurple;
 }
@@ -14,7 +18,7 @@ h1 {
     bottom: 0;
     height: 30px;
     width: 100%;
-    background-color: #c0c0c0;
+    background-color: green;
 }
 
 .navbar {
